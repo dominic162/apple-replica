@@ -40,15 +40,15 @@ nav :hover{
     background-color: black;
 }
 #i-phone-se{
-    background-image: url("medhat-dawoud-f-3mUXFLY2o-unsplash (2).jpg"), linear-gradient(180deg, rgb(0,0,0,0.75) 25%,rgb(0,0,0,0) 100%);
+    background-image: url("images/medhat-dawoud-f-3mUXFLY2o-unsplash (2).jpg"), linear-gradient(180deg, rgb(0,0,0,0.75) 25%,rgb(0,0,0,0) 100%);
     background-size: 100% 100%;
 }
 #i-phone-11{
-    background-image: url('iphone11.jpg');
+    background-image: url('images/iphone11.jpg');
     background-size: 100% 100%;
 }
 #i-pad-pro{
-    background-image: url('ipadpro.png');
+    background-image: url('images/ipadpro.png');
     background-size: 100% 100%;
     margin-bottom: 10px;
 }
@@ -99,7 +99,7 @@ nav :hover{
 }
 #image1{
     grid-area: image1;
-    background-image: url('iphone.jpg');
+    background-image: url('images/iphone.jpg');
     background-size: auto;
 }
 #image2{
@@ -113,23 +113,23 @@ nav :hover{
 #image3{
     color: white;
     grid-area: image3;
-    background-image: url('wwdc.jpg');
+    background-image: url('images/wwdc.jpg');
     background-size: 100%;
 }
 #image4{
     text-align: center;
     grid-area: image4;
-    background-image: url('applewatch.jpg');
+    background-image: url('images/applewatch.jpg');
     background-size: auto;
 }
 #image5{
     grid-area: image5;
-    background-image: url('applecard.jpg');
+    background-image: url('images/applecard.jpg');
     background-size: auto;
 }
 #image6{
     grid-area: image6;
-    background-image: url('png-apple-logo-9736.png');
+    background-image: url('images/png-apple-logo-9736.png');
     background-size: 40%;
     background-position: center;
     background-repeat: no-repeat;
