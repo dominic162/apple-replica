@@ -40,7 +40,7 @@ nav :hover{
     background-color: black;
 }
 #i-phone-se{
-    background-image: url("images/medhat-dawoud-f-3mUXFLY2o-unsplash (2).jpg"), linear-gradient(180deg, rgb(0,0,0,0.75) 25%,rgb(0,0,0,0) 100%);
+    background-image: url("images/medhat-dawoud-f-3mUXFLY2o-unsplash\ \(2\).jpg"), linear-gradient(180deg, rgb(0,0,0,0.75) 25%,rgb(0,0,0,0) 100%);
     background-size: 100% 100%;
 }
 #i-phone-11{
